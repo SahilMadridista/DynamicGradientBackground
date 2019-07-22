@@ -1,0 +1,2 @@
+# DynamicGradientBackground
+In this app , there is a dynamic background of gradients. You can also adjust the gradient enter and exit fade duration in the MainActivity.java file. In the app I've used a Realtive layout for the xml file. I've created 5 gradient backgrounds of different different colours. If you want then you can add more in the drawable folder. Then in the MainActivity.java file an AnimationDrawable is used to get the background of the layout and then I've started it.
